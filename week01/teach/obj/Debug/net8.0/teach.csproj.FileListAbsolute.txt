@@ -1,0 +1,15 @@
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/bin/Debug/net8.0/teach
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/bin/Debug/net8.0/teach.deps.json
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/bin/Debug/net8.0/teach.runtimeconfig.json
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/bin/Debug/net8.0/teach.dll
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/bin/Debug/net8.0/teach.pdb
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/teach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/teach.AssemblyInfoInputs.cache
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/teach.AssemblyInfo.cs
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/teach.csproj.CoreCompileInputs.cache
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/teach.sourcelink.json
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/teach.dll
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/refint/teach.dll
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/teach.pdb
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/teach.genruntimeconfig.cache
+/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/Debug/net8.0/ref/teach.dll

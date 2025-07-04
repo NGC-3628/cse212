@@ -1,13 +1,24 @@
 using System;
+using System.Linq.Expressions;
 
 public class Program
 {
     static void Main(string[] args)
     {
-        // This project is here for you to use as a "Sandbox" to play around
-        // with any code or ideas you have that do not directly apply to
-        // one of your projects.
+        Console.WriteLine("What do you want to do?");
+        Console.WriteLine("1. run first program\n2. Create array program");
+        int userOption = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Hello Sandbox World!");
+        switch (userOption){
+            case 1: 
+                Console.WriteLine("\n================\nDifferent ways to see the arrays\n================");
+                first_sandbox.Run();
+            break;
+
+            case 2:
+                Console.WriteLine("\n================\nCreating new arrays\n================");
+                newArray.Run();
+            break;
+        }
     }
 }
