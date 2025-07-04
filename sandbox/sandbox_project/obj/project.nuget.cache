@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ML33fV9gpUk=",
+  "dgSpecHash": "uES92mm447I=",
   "success": true,
-  "projectFilePath": "/Users/adis_/Documents/BYU-I/cse212/cse212/sandbox/sandbox_project/sandbox_project.csproj",
-  "expectedPackageFiles": [
-    "/Users/adis_/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
-    "/Users/adis_/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
-    "/Users/adis_/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.12/microsoft.netcore.app.host.osx-arm64.8.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\isaac\\Desktop\\BYU i\\cse212\\sandbox\\sandbox_project\\sandbox_project.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

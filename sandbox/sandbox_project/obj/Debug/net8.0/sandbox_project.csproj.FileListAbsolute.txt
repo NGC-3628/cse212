@@ -13,3 +13,18 @@
 /Users/adis_/Documents/BYU-I/cse212/cse212/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.pdb
 /Users/adis_/Documents/BYU-I/cse212/cse212/sandbox/sandbox_project/obj/Debug/net8.0/sandbox_project.genruntimeconfig.cache
 /Users/adis_/Documents/BYU-I/cse212/cse212/sandbox/sandbox_project/obj/Debug/net8.0/ref/sandbox_project.dll
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\bin\Debug\net8.0\sandbox_project.exe
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\bin\Debug\net8.0\sandbox_project.deps.json
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\bin\Debug\net8.0\sandbox_project.runtimeconfig.json
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\bin\Debug\net8.0\sandbox_project.dll
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\bin\Debug\net8.0\sandbox_project.pdb
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\sandbox_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\sandbox_project.AssemblyInfoInputs.cache
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\sandbox_project.AssemblyInfo.cs
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\sandbox_project.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\sandbox_project.sourcelink.json
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\sandbox_project.dll
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\refint\sandbox_project.dll
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\sandbox_project.pdb
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\sandbox_project.genruntimeconfig.cache
+C:\Users\isaac\Desktop\BYU i\cse212\sandbox\sandbox_project\obj\Debug\net8.0\ref\sandbox_project.dll
