@@ -5,7 +5,7 @@ public static class newArray
 
     public static void Run()
     {
-        var line1 = new[] { 20, 40, 56, 89 };
+        var line1 = new[] { 20, 40, 56, 89, 16, 21 };
         var line2 = new[] { 1, 2, 3, 4, 5, 6 };
         var order = new[] { 2, 1, 1, 1, 1, 2, 2, 1, 2, 1 };
 

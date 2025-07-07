@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/teach.csproj": {}
+    "C:\\Users\\isaac\\Desktop\\BYU i\\cse212\\week01\\teach\\teach.csproj": {}
   },
   "projects": {
-    "/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/teach.csproj": {
+    "C:\\Users\\isaac\\Desktop\\BYU i\\cse212\\week01\\teach\\teach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/teach.csproj",
+        "projectUniqueName": "C:\\Users\\isaac\\Desktop\\BYU i\\cse212\\week01\\teach\\teach.csproj",
         "projectName": "teach",
-        "projectPath": "/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/teach.csproj",
-        "packagesPath": "/Users/adis_/.nuget/packages/",
-        "outputPath": "/Users/adis_/Documents/BYU-I/cse212/cse212/week01/teach/obj/",
+        "projectPath": "C:\\Users\\isaac\\Desktop\\BYU i\\cse212\\week01\\teach\\teach.csproj",
+        "packagesPath": "C:\\Users\\isaac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isaac\\Desktop\\BYU i\\cse212\\week01\\teach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/adis_/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\isaac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,8 +39,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -54,26 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.osx-arm64",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
