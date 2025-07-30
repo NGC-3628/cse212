@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adis_/Documents/BYU-I/cse212/cse212/week02/analyze/analyze.csproj": {}
+    "/Users/adis_/Documents/BYU-I/cse212/week02/analyze/analyze.csproj": {}
   },
   "projects": {
-    "/Users/adis_/Documents/BYU-I/cse212/cse212/week02/analyze/analyze.csproj": {
+    "/Users/adis_/Documents/BYU-I/cse212/week02/analyze/analyze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adis_/Documents/BYU-I/cse212/cse212/week02/analyze/analyze.csproj",
+        "projectUniqueName": "/Users/adis_/Documents/BYU-I/cse212/week02/analyze/analyze.csproj",
         "projectName": "analyze",
-        "projectPath": "/Users/adis_/Documents/BYU-I/cse212/cse212/week02/analyze/analyze.csproj",
+        "projectPath": "/Users/adis_/Documents/BYU-I/cse212/week02/analyze/analyze.csproj",
         "packagesPath": "/Users/adis_/.nuget/packages/",
-        "outputPath": "/Users/adis_/Documents/BYU-I/cse212/cse212/week02/analyze/obj/",
+        "outputPath": "/Users/adis_/Documents/BYU-I/cse212/week02/analyze/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adis_/.nuget/NuGet/NuGet.Config"

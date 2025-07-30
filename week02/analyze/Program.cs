@@ -2,6 +2,9 @@
 Console.WriteLine(MysteryStack1.Run("racecar"));
 Console.WriteLine(MysteryStack1.Run("stressed"));
 Console.WriteLine(MysteryStack1.Run("a nut for a jar of tuna"));
+Console.WriteLine(MysteryStack1.Run("Isaac Iturralde"));
+Console.WriteLine(MysteryStack1.Run("naturweissenshaften"));
+
 
 Console.WriteLine("\n======================\nMysteryStack2\n======================");
 Console.WriteLine(MysteryStack2.Run("5 3 7 + *"));

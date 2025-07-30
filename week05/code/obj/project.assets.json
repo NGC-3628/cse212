@@ -1014,11 +1014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adis_/Documents/BYU-I/cse212/cse212/week05/code/code.csproj",
+      "projectUniqueName": "/Users/adis_/Documents/BYU-I/cse212/week05/code/code.csproj",
       "projectName": "code",
-      "projectPath": "/Users/adis_/Documents/BYU-I/cse212/cse212/week05/code/code.csproj",
+      "projectPath": "/Users/adis_/Documents/BYU-I/cse212/week05/code/code.csproj",
       "packagesPath": "/Users/adis_/.nuget/packages/",
-      "outputPath": "/Users/adis_/Documents/BYU-I/cse212/cse212/week05/code/obj/",
+      "outputPath": "/Users/adis_/Documents/BYU-I/cse212/week05/code/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/adis_/.nuget/NuGet/NuGet.Config"

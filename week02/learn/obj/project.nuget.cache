@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k7ukVMLEEKQ=",
+  "dgSpecHash": "3j/BNiNqfe4=",
   "success": true,
-  "projectFilePath": "/Users/adis_/Documents/BYU-I/cse212/cse212/week02/learn/learn.csproj",
+  "projectFilePath": "/Users/adis_/Documents/BYU-I/cse212/week02/learn/learn.csproj",
   "expectedPackageFiles": [
     "/Users/adis_/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
     "/Users/adis_/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
