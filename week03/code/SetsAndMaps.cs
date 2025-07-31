@@ -1,3 +1,4 @@
+using System.Reflection.PortableExecutable;
 using System.Text.Json;
 
 public static class SetsAndMaps
@@ -22,7 +23,25 @@ public static class SetsAndMaps
     public static string[] FindPairs(string[] words)
     {
         // TODO Problem 1 - ADD YOUR CODE HERE
-        return [];
+        var seenWords = new HashSet<string>();
+        var resultPairs = new List<string>();
+
+        foreach (var word in words)
+        {
+            if (word[0] == word[1])
+            {
+                continue;
+            }
+
+            var reversedWord = new string(new[]{word[1], word[0]});
+            if(seenWords.Contains(reversedWord))
+            {
+                resultPairs.Add($"{word} & {reversedWord}");
+            }
+            seenWords.Add(word);
+        }
+        
+        return resultPairs.ToArray();
     }
 
     /// <summary>
@@ -43,6 +62,16 @@ public static class SetsAndMaps
         {
             var fields = line.Split(",");
             // TODO Problem 2 - ADD YOUR CODE HERE
+            var degree = fields[3];
+
+            if (degrees.ContainsKey(degree))
+            {
+                degrees[degree]++;
+            }
+            else
+            {
+                degrees.Add(degree, 1);
+            }
         }
 
         return degrees;
@@ -67,7 +96,32 @@ public static class SetsAndMaps
     public static bool IsAnagram(string word1, string word2)
     {
         // TODO Problem 3 - ADD YOUR CODE HERE
-        return false;
+        //part 1 standarize all words.
+        var aWord1 = word1.Replace(" ", "").ToLower();
+        var aWord2 = word2.Replace(" ", "").ToLower();
+
+        if(aWord1.Length != aWord2.Length)
+        {
+            return false;
+        }
+        //part2 contar letras primera palabra.
+        var letterCount = new Dictionary<char, int>();
+        foreach(char letter in aWord1)
+        {
+            letterCount.TryGetValue(letter, out int count);
+            letterCount[letter] = count + 1;
+        }
+
+        //part 3. Verify 2nd word againts the firt one.
+        foreach(char letter in aWord2)
+        {
+            if(!letterCount.ContainsKey(letter) || letterCount[letter] == 0) //checking if word aint in the dict or is 0
+            {
+                return false; // if so, it aint an anagram.
+            }
+            letterCount[letter]--;
+        }
+        return true;
     }
 
     /// <summary>
@@ -95,6 +149,7 @@ public static class SetsAndMaps
         var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
 
         var featureCollection = JsonSerializer.Deserialize<FeatureCollection>(json, options);
+        
 
         // TODO Problem 5:
         // 1. Add code in FeatureCollection.cs to describe the JSON using classes and properties 
