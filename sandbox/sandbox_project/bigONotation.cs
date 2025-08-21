@@ -44,16 +44,16 @@ public static int[] numbers;
     public static void Run()
     {
         //Calling the array creation method. Calling the random numbers maker method.
-    int size = 10;
-    numbers = ArrayCreation(size); // <-- ahora asigna al campo estático
-    //int[] array = CreateArray(size); This is a local variable that is shadowing the static variable.
-    numbers = RandomNumMaker(numbers);
+        int size = 10;
+        numbers = ArrayCreation(size); // <-- ahora asigna al campo estático
+        //int[] array = CreateArray(size); This is a local variable that is shadowing the static variable.
+        numbers = RandomNumMaker(numbers);
 
-    foreach (int num in numbers)
-    {
-        Console.Write(num + " ");
-    }
-    Console.WriteLine();
+        foreach (int num in numbers)
+        {
+            Console.Write(num + " ");
+        }
+        Console.WriteLine();
     }
 
     public static int[] ArrayCreation(int size)
