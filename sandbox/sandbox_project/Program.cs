@@ -31,6 +31,7 @@ public class Program
             case 4:
                 Console.WriteLine("\n================\nArrays with random numbers\n================");
                 bigONotation.Run();
+            
                 orderValues.Run();
                 break;
             case 5:
